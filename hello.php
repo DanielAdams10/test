@@ -14,6 +14,7 @@ echo "Have a nice day";
 </head>
 <body>
     <h1>Hello World</h1>
+    <h2>This is push test</h2>
 </body>
 </html>
 ?>
